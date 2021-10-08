@@ -16,20 +16,20 @@ npm start
 
 ### Main page
 
-  <a src= "https://github.com/Rajat6697/Crud_app_reactjs/blob/34171152cfc979cca28e7624e9f92cb8c686b77a/Screenshots/main_page.png" alt= "Main page img">
+  <img src= "https://github.com/Rajat6697/Crud_app_reactjs/blob/34171152cfc979cca28e7624e9f92cb8c686b77a/Screenshots/main_page.png" alt= "Main page img">
 
 ### Update User Page
   
-  <a src= "https://github.com/Rajat6697/Crud_app_reactjs/blob/34171152cfc979cca28e7624e9f92cb8c686b77a/Screenshots/update_user_page.png" alt= "Update User Page img">
+  <img src= "https://github.com/Rajat6697/Crud_app_reactjs/blob/34171152cfc979cca28e7624e9f92cb8c686b77a/Screenshots/update_user_page.png" alt= "Update User Page img">
 
 ### Update User Dialog
     
-    <a src= "https://github.com/Rajat6697/Crud_app_reactjs/blob/34171152cfc979cca28e7624e9f92cb8c686b77a/Screenshots/update_user_dialog.png" alt= "Update User Dialog img">
+    <img src= "https://github.com/Rajat6697/Crud_app_reactjs/blob/34171152cfc979cca28e7624e9f92cb8c686b77a/Screenshots/update_user_dialog.png" alt= "Update User Dialog img">
 
 ### New User Page
       
-    <a src= "https://github.com/Rajat6697/Crud_app_reactjs/blob/34171152cfc979cca28e7624e9f92cb8c686b77a/Screenshots/new_user_page.png" alt= "New User Page img">
+    <img src= "https://github.com/Rajat6697/Crud_app_reactjs/blob/34171152cfc979cca28e7624e9f92cb8c686b77a/Screenshots/new_user_page.png" alt= "New User Page img">
 
 ### Delete User Dialog
       
-   <a src= "https://github.com/Rajat6697/Crud_app_reactjs/blob/34171152cfc979cca28e7624e9f92cb8c686b77a/Screenshots/delete_user_dialog.png" alt= "Delete User Dialog img">
+   <img src= "https://github.com/Rajat6697/Crud_app_reactjs/blob/34171152cfc979cca28e7624e9f92cb8c686b77a/Screenshots/delete_user_dialog.png" alt= "Delete User Dialog img">
