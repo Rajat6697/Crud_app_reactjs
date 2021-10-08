@@ -19,7 +19,8 @@ exports.create= (req, res)=> {
     user
         .save(user)
         .then(data=> {
-            res.send(data)
+           // res.send(data)
+           res.redirect('/add_user')
         })
         .catch(err=> {
             res.status(500).send({
@@ -32,6 +33,26 @@ exports.create= (req, res)=> {
 
 // retrieve and return all users/ retrieve and return a single user
 exports.find= (req, res) => {
+    if(req.query.id) {
+        const id= req.query.id;
+        
+        Userdb.findById(id)
+            .then(data=>{
+                if(!data) {
+                    res.status(404).send({message: "Not found user with id ${id} "})
+                }
+                else {
+                    res.send(data)
+                }
+            } )
+        .catch(err=>{
+            res.status(500).send({message: "Error retrieving user with id ${id} "})
+        })
+
+    }
+    else {
+
+
     Userdb.find()
     .then(user=>{
         res.send(user)
@@ -41,7 +62,7 @@ exports.find= (req, res) => {
     })
 
 }
-
+}
 // update a new identified user by user id
 exports.update= (req, res)=> {
     if(!req.body) {
