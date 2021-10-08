@@ -24,11 +24,12 @@ npm start
 
 ### Update User Dialog
     
-    <img src= "https://github.com/Rajat6697/Crud_app_reactjs/blob/34171152cfc979cca28e7624e9f92cb8c686b77a/Screenshots/update_user_dialog.png" alt= "Update User Dialog img">
+   <img src= "https://github.com/Rajat6697/Crud_app_reactjs/blob/34171152cfc979cca28e7624e9f92cb8c686b77a/Screenshots/update_user_dialog.png" alt= "Update User Dialog img">
+    
 
 ### New User Page
       
-    <img src= "https://github.com/Rajat6697/Crud_app_reactjs/blob/34171152cfc979cca28e7624e9f92cb8c686b77a/Screenshots/new_user_page.png" alt= "New User Page img">
+   <img src= "https://github.com/Rajat6697/Crud_app_reactjs/blob/34171152cfc979cca28e7624e9f92cb8c686b77a/Screenshots/new_user_page.png" alt= "New User Page img">
 
 ### Delete User Dialog
       
